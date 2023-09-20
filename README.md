@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
 
-![image](https://github.com/WesleyFerrage/WesleyFerrage/assets/89229373/c915516e-03e8-44dd-b461-ef1937ffd7a5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyFerrage&layout=compact)
 
 ### 💻 Tech Stack:
 
